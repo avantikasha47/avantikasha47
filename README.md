@@ -1,4 +1,4 @@
-![logo]https://github.com/avantikasha47/avantikasha47/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png
+![logo]https://(github.com/avantikasha47/avantikasha47/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
 <h1 align="center">Hi 👋, I'm Avantika Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
